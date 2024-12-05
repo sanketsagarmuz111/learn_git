@@ -1,1 +1,3 @@
 our ssh key is connected with github.
+
+our repo connection is set.
