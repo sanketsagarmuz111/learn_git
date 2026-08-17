@@ -2,6 +2,6 @@ our ssh key is connected with github.
 
 our repo connection is set.
  
-another change is here. 
+another change is here.  
 
 this repo is for learning the fundamentals of git 
