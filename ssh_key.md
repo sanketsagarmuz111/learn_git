@@ -6,7 +6,7 @@ SSH lets you connect to GitHub securely without entering your username and passw
 
 ## Check Existing SSH Keys
 
-```bash
+``` bash
 ls -al ~/.ssh
 ```
 
