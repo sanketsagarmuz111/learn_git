@@ -156,13 +156,13 @@ Check the current remote:
 git remote -v
 ```
 
-Change it to SSH:
+Change it to SSH :
 
 ```bash
 git remote set-url origin git@github.com:username/repository.git
 ```
 
-Verify:
+Verify :
 
 ```bash
 git remote -v
