@@ -191,7 +191,7 @@ git commit -am "Fix navbar"
 
 📌 Stages and commits modified tracked files.
 
-> Doesn't include newly created files.
+> Does not include newly created files.
 
 ---
 
