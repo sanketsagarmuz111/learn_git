@@ -104,6 +104,7 @@ cat ~/.ssh/id_ed25519.pub
 5. Paste your public key
 6. Click **Add SSH Key**
 
+
 ```
 Computer
      │
