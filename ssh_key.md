@@ -169,7 +169,7 @@ Verify :
 git remote -v
 ```
 
-Example output:
+Example output :
 
 ```
 origin  git@github.com:username/repository.git (fetch)
