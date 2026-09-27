@@ -19,7 +19,7 @@
 - Tags
 - Helpful Commands
 
----
+--- 
 
 # ⚙️ Git Setup
 
