@@ -1,4 +1,5 @@
 git status --short -- frontend
 git diff HEAD --stat -- frontend
 git diff HEAD -- frontend/src/redux/slices/cartSlice.js
- 
+
+
